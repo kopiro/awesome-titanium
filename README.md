@@ -3,7 +3,7 @@
 ## Modules
 
 | Name | Description | URL | ID |
----------------------------------
+| --- | --- | --- | --- |
 | Ti.SVGView | This module simply create a view from an svg file by exposing the androidsvg-1.2.1 lib and the SVGKit 2.X for IOS lib. | https://github.com/GeraudBourdin/Ti.SvgView | com.geraudbourdin.svgview |
 | Ti.Goosh | Android Titanium module to work easily with Google Cloud Messaging push notification service... and it's Parse and Parse Server compatible! | https://github.com/caffeinalab/ti.goosh | ti.goosh |
 | Ti.GA | A Google Analytics module that provides just what you need, in a consistent way. | https://github.com/benbahrenburg/Ti.GA | ti.ga |
